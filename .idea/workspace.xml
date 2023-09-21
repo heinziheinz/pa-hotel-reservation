@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb82be22-61c1-4ce4-b65a-16d6274811c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Guest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Reservations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Model/RoomType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service/HotelReservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Service/HotelReservationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Service/HotelReservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Service/HotelReservation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +164,7 @@
       <workItem from="1695211430170" duration="789000" />
       <workItem from="1695224752681" duration="44000" />
       <workItem from="1695274957938" duration="13607000" />
-      <workItem from="1695288847730" duration="7000000" />
+      <workItem from="1695288847730" duration="7184000" />
     </task>
     <servers />
   </component>

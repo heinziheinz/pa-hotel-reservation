@@ -84,7 +84,7 @@ public class HotelReservation {
         return (reservation.startDate().isAfter(startDate) || reservation.endDate().isBefore(startDate));
     }
 
-    //TODO implement instead of isRoomFree: logic works!!
+    //TODO implement instead of isRoomFree: logic works!! two parameters are needed for that LocalDate startDate,LocalDate endDate
     private boolean isRoomFreeTwo(LocalDate startDate,LocalDate endDate, Reservation reservation) {
         return (reservation.startDate().isAfter(endDate) || reservation.endDate().isBefore(startDate));
     }
