@@ -1,9 +1,8 @@
-public class Application {
-    public static void main(String[] args) {
-        System.out.println("Hotel Reservation System");
+package Model;
 
-    }
+public record Room(int roomNumber, int amountOfGuests, RoomType roomType, double price) {
 }
+
 //    Hotel Reservation System:
 
 //        I want a system for managing hotel room reservations.
